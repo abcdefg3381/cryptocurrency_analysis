@@ -1,1 +1,1 @@
-# cryptocurrency_analysis
+# This folder contains reusable auxiliary dataset for cryptocurrency transaction analysis.
